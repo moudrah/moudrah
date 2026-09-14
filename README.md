@@ -2,17 +2,20 @@
 
 [![Hello World, je suis Mouad !](assets/header.jpeg)](https://github.com/moudrah)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/TON-PROFIL) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/TON-PSEUDO) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mouad-rahmani-39955325a/) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/@mouad_rahmani) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mouad.rahmani@enim.ac.ma?subject=Hello%20Mouad,%20From%20Github)
 
 </div>
- Bonjour, je suis Mouad
-🎓 Ingénieur en formation · 💻 Software Engineering · 🤖 Machine Learning
+# Hey! Nice to see you 👋
 
-ENSMR — Ingénierie des Systèmes Informatiques et de Production (ISIP)
+Welcome to my page!
 
-Je développe des applications full-stack, j'expérimente avec le Machine Learning et je m'intéresse particulièrement à la conception de systèmes logiciels utiles, robustes et orientés données.
+I'm **Mouad**, an engineering student specializing in **Information Systems and Production Engineering (ISIP)** at ENSMR.
+
+💻 I build **full-stack applications**, experiment with **Machine Learning**, and enjoy designing software systems that are **useful, reliable, and data-driven**.
+
+🤖 Currently exploring **Machine Learning, Deep Learning, Python, and Data Science** while developing practical projects that combine software engineering and AI.
 
 <div align="center">
 
