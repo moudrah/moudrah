@@ -7,11 +7,12 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mouad.rahmani@enim.ac.ma?subject=Hello%20Mouad,%20From%20Github)
 
 </div>
+ Bonjour, je suis Mouad
+🎓 Ingénieur en formation · 💻 Software Engineering · 🤖 Machine Learning
 
-- 🌱 Ingénieur en formation, filière ISIP (Ingénierie des Systèmes Informatiques et de Production) à l'ENSMR — en reconversion vers le développement logiciel et le machine learning.
-- 🤖 En ce moment j'apprends le Machine Learning via Coursera (_AI For Everyone_ → _Machine Learning Specialization_).
-- 🏥 Je construis des projets full-stack et des modèles de deep learning (dernier en date : détection de tuberculose sur radios thoraciques par CNN).
-- ⚡ Fun fact : passionné de photographie, de philosophie (Machiavel), de lecture scientifique et de lore du speedrunning.
+ENSMR — Ingénierie des Systèmes Informatiques et de Production (ISIP)
+
+Je développe des applications full-stack, j'expérimente avec le Machine Learning et je m'intéresse particulièrement à la conception de systèmes logiciels utiles, robustes et orientés données.
 
 <div align="center">
 
@@ -31,8 +32,9 @@
 
 ## 🎮 Quand je suis AFK :
 
-![Photographie](https://img.shields.io/badge/Photographie-8A2BE2?style=for-the-badge) &nbsp;
-![Philosophie](https://img.shields.io/badge/Philosophie_(Machiavel)-b5651d?style=for-the-badge) &nbsp;
+![Philosophie](<https://img.shields.io/badge/Philosophie_(Machiavel)-b5651d?style=for-the-badge>) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge) &nbsp;
+![appletv](https://img.shields.io/badge/Apple%20TV-E50914?style=for-the-badge) &nbsp;
 ![Lecture](https://img.shields.io/badge/Sciences_%26_lecture-2f6f4e?style=for-the-badge) &nbsp;
 ![Speedrunning](https://img.shields.io/badge/Speedrunning_lore-e63946?style=for-the-badge)
 
