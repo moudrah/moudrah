@@ -32,7 +32,7 @@
 ## 🎮 Quand je suis AFK :
 
 ![Photographie](https://img.shields.io/badge/Photographie-8A2BE2?style=for-the-badge) &nbsp;
-![Philosophie](<https://img.shields.io/badge/Philosophie_(Machiavel)-b5651d?style=for-the-badge>) &nbsp;
+![Philosophie](https://img.shields.io/badge/Philosophie_(Machiavel)-b5651d?style=for-the-badge) &nbsp;
 ![Lecture](https://img.shields.io/badge/Sciences_%26_lecture-2f6f4e?style=for-the-badge) &nbsp;
 ![Speedrunning](https://img.shields.io/badge/Speedrunning_lore-e63946?style=for-the-badge)
 
